@@ -1,2 +1,1 @@
-# test
-test for Cambridge course week 2
+This repository was created for the purpose of practicing git skills. 
